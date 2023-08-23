@@ -5,8 +5,7 @@
 ## About me
 
 - 👋 Hi, I’m Louise @witterless
-- 👀 Full stack developer mostly messing around with Java, React, Docker and GCP
-- 🌱 I’m currently studying towards being Java certified
+- 👀 Back end developer mostly messing around with Java, Docker and GCP
 - :woman_technologist: Career at Apex Fintech Solutions
 
 ### :hammer_and_wrench: Languages and Tools (in order of experience)
